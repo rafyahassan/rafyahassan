@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm RAFYA Hassan</h1>
-<h3 align="center">data science, d'intelligence artificielle et d'analyse de données</h3>
+<h3 align="center">Data science, Intelligence artificielle et Analyse de données</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
